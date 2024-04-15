@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-14T00:27:16 IST" name="Suite" finished-at="2024-04-14T00:27:26 IST" duration-ms="9819">
+    <groups>
+      <group name="Sanity">
+        <method signature="TC001_LoginwithValidCredentials.verifyLogin()[pri:0, instance:TestCases.TC001_LoginwithValidCredentials@1151e434]" name="verifyLogin" class="TestCases.TC001_LoginwithValidCredentials"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TC001_LoginwithValidCredentials.verifyLogin()[pri:0, instance:TestCases.TC001_LoginwithValidCredentials@1151e434]" name="verifyLogin" class="TestCases.TC001_LoginwithValidCredentials"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2024-04-14T00:27:16 IST" name="Test" finished-at="2024-04-14T00:27:26 IST" duration-ms="9819">
+      <class name="TestCases.TC001_LoginwithValidCredentials">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC001_LoginwithValidCredentials@1151e434]" started-at="2024-04-14T00:27:16 IST" name="setup" finished-at="2024-04-14T00:27:22 IST" duration-ms="6207" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin()[pri:0, instance:TestCases.TC001_LoginwithValidCredentials@1151e434]" started-at="2024-04-14T00:27:22 IST" name="verifyLogin" finished-at="2024-04-14T00:27:26 IST" duration-ms="3045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC001_LoginwithValidCredentials@1151e434]" started-at="2024-04-14T00:27:26 IST" name="tearDown" finished-at="2024-04-14T00:27:26 IST" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC001_LoginwithValidCredentials -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2024-04-14T00:27:26 IST" name="Suite (0)" finished-at="2024-04-14T00:27:34 IST" duration-ms="7296">
+    <groups>
+      <group name="Sanity">
+        <method signature="TC001_LoginwithValidCredentials.verifyLogin()[pri:0, instance:TestCases.TC001_LoginwithValidCredentials@13e344d]" name="verifyLogin" class="TestCases.TC001_LoginwithValidCredentials"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TC001_LoginwithValidCredentials.verifyLogin()[pri:0, instance:TestCases.TC001_LoginwithValidCredentials@13e344d]" name="verifyLogin" class="TestCases.TC001_LoginwithValidCredentials"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2024-04-14T00:27:26 IST" name="Test" finished-at="2024-04-14T00:27:34 IST" duration-ms="7296">
+      <class name="TestCases.TC001_LoginwithValidCredentials">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC001_LoginwithValidCredentials@13e344d]" started-at="2024-04-14T00:27:26 IST" name="setup" finished-at="2024-04-14T00:27:30 IST" duration-ms="4059" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin()[pri:0, instance:TestCases.TC001_LoginwithValidCredentials@13e344d]" started-at="2024-04-14T00:27:30 IST" name="verifyLogin" finished-at="2024-04-14T00:27:33 IST" duration-ms="2977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC001_LoginwithValidCredentials@13e344d]" started-at="2024-04-14T00:27:33 IST" name="tearDown" finished-at="2024-04-14T00:27:34 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC001_LoginwithValidCredentials -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>

@@ -1,0 +1,28 @@
+00:19:20.699 [main] INFO  TestCases.TC001_LoginwithValidCredentials - ********Sucessfully Login************
+00:19:22.163 [main] INFO  TestCases.TC001_LoginwithValidCredentials - ***Passed***
+00:19:23.498 [main] INFO  TestCases.TC001_LoginwithValidCredentials - Logout Sucessful
+00:19:23.498 [main] INFO  TestCases.TC001_LoginwithValidCredentials - ****Complete TC001********
+00:25:50.135 [main] INFO  TestCases.TC001_LoginwithValidCredentials - ******Starting TC001_LoginWithValid********
+00:25:50.138 [main] DEBUG TestCases.TC001_LoginwithValidCredentials - ***Application Logs***
+00:25:50.470 [main] INFO  TestCases.TC001_LoginwithValidCredentials - ********Sucessfully Login************
+00:25:52.059 [main] INFO  TestCases.TC001_LoginwithValidCredentials - ***Passed***
+00:25:53.238 [main] INFO  TestCases.TC001_LoginwithValidCredentials - Logout Sucessful
+00:25:53.238 [main] INFO  TestCases.TC001_LoginwithValidCredentials - ****Complete TC001********
+00:25:57.882 [main] INFO  TestCases.TC001_LoginwithValidCredentials - ******Starting TC001_LoginWithValid********
+00:25:57.882 [main] DEBUG TestCases.TC001_LoginwithValidCredentials - ***Application Logs***
+00:25:58.207 [main] INFO  TestCases.TC001_LoginwithValidCredentials - ********Sucessfully Login************
+00:25:59.582 [main] INFO  TestCases.TC001_LoginwithValidCredentials - ***Passed***
+00:26:00.770 [main] INFO  TestCases.TC001_LoginwithValidCredentials - Logout Sucessful
+00:26:00.770 [main] INFO  TestCases.TC001_LoginwithValidCredentials - ****Complete TC001********
+00:27:22.996 [main] INFO  TestCases.TC001_LoginwithValidCredentials - ******Starting TC001_LoginWithValid********
+00:27:22.998 [main] DEBUG TestCases.TC001_LoginwithValidCredentials - ***Application Logs***
+00:27:23.297 [main] INFO  TestCases.TC001_LoginwithValidCredentials - ********Sucessfully Login************
+00:27:24.820 [main] INFO  TestCases.TC001_LoginwithValidCredentials - ***Passed***
+00:27:26.032 [main] INFO  TestCases.TC001_LoginwithValidCredentials - Logout Sucessful
+00:27:26.032 [main] INFO  TestCases.TC001_LoginwithValidCredentials - ****Complete TC001********
+00:27:30.803 [main] INFO  TestCases.TC001_LoginwithValidCredentials - ******Starting TC001_LoginWithValid********
+00:27:30.803 [main] DEBUG TestCases.TC001_LoginwithValidCredentials - ***Application Logs***
+00:27:31.238 [main] INFO  TestCases.TC001_LoginwithValidCredentials - ********Sucessfully Login************
+00:27:32.600 [main] INFO  TestCases.TC001_LoginwithValidCredentials - ***Passed***
+00:27:33.780 [main] INFO  TestCases.TC001_LoginwithValidCredentials - Logout Sucessful
+00:27:33.780 [main] INFO  TestCases.TC001_LoginwithValidCredentials - ****Complete TC001********
