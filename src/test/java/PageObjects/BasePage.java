@@ -16,8 +16,7 @@ public class BasePage {
 		
 		
 	}
-	@FindBy(xpath ="//a[@class='dropdown-item' and text()='Logout']")
-	WebElement logout1;
+	
 	
 	@FindBy(xpath ="//a[@class='dropdown-item' and text()='Logout']")
 	WebElement logout;
